@@ -32,6 +32,8 @@
 ## Technology
 
 #### Java 16 or higher
+## IDE
+#### IntelliJ IDEA
 
 ## How to run the program
 #### First you need to clone this repository

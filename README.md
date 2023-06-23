@@ -29,4 +29,13 @@
 
 #### In this program exception handling is properly done to deal with any kind of unexpected exception. Basically this program contains three main versions(as Packages).
 
+## Technology
+
+#### Java 16 or higher
+
+## How to run the program
+#### First you need to clone this repository
+#### Run this project as part of Java code through IntelliJ IDEA.
+#### Note - If this project helped you, kindly don't forget to give this repository a star that motivates me to work further and improve this project.
+
 
